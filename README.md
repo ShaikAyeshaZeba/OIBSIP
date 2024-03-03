@@ -3,4 +3,4 @@ OASIS INFOBYTE INTERNSHIP.
 # WEB DEVELOPMENT AND DESIGN
 Tasks that are assigned.
 # LEVEL-02
-TASK_01 : http://127.0.0.1:5500/Calculator/
+TASK_01 : ///C:/Users/user/Desktop/WEB%20DEVELOPMENT%20AND%20DESIGN/Calculator/index.html
