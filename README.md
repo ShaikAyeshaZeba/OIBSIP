@@ -3,6 +3,8 @@ OASIS INFOBYTE INTERNSHIP.
 # WEB DEVELOPMENT AND DESIGN
 Tasks that are assigned.
 # LEVEL-02
-Task_01 : Calculator;
-Task_02 : Tribute Page; 
+Task_01
+Calculator : https://github.com/ShaikAyeshaZeba/OIBSIP/tree/main/WEB%20DEVELOPMENT%20AND%20DESIGN/Calculator;
+Task_02 
+Tribute Page : ; 
 Task_03 : To-Do WebApp.
